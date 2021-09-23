@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
+        <title>Cool Counter</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!-- CLOCK -->
+    <p class="clock" title="CLOCK!"></p>
+
+        <h1>Cool Counter</h1>
+        <p>Use the Cool Counter to count whatever you fancy.</p>
+        <h2 id="count-el">0</h2>
+
+        <!--
+        onclick="increment()" this calls the funtion increment in the index.js file 
+        and runs it when the button is clicked. -->
+        <button id="increment-btn" onclick="increment()"> INCREMENT </button>
+
+        <!-- onclick="save()" this calls the funtion save in the index.js file and runs 
+        it when the button is clicked. -->
+        <button id="save-btn" onclick="save()">SAVE</button>
+        <p id="save-el">Previous entires: </p>
+
+        <script src="index.js"></script>
+    </body>
+</html>
