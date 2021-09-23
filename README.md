@@ -1,9 +1,9 @@
-###DOM Manipulation & Timing
+### DOM Manipulation & Timing
 
-For this project I am using a base that I got from a functions Scrimba course for beginners. 
+For this project I went through a functions Scrimba course for beginners, which I knew that touched on DOM.
 	[Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)
-It takes you through step by step how to build a simple people counter. I used that base, styled it and 
-added some interactivity with DOM manipulation.
+The course takes you through step by step how to build a simple people counter that stores the previous entries.
+I used that base, styled it and added some interactivity with DOM manipulation.
 
 - made app using JavaScript
 - styled with CSS and added styles with DOM
@@ -13,9 +13,8 @@ added some interactivity with DOM manipulation.
 
 I also read about the main consepts to get the main lingo in DOM
 
-The DOM lingo
-
-##What is DOM?
+## The DOM lingo:
+# What is DOM?
 The Document Object Model, or DOM is a representation of a document (like an HTML page) as a group 
 of objects. While it is often used to represent HTML documents, and most web browsers use JavaScript 
 interfaces to the DOM, it is language agnostic as a model. The DOM is tree-like and heirarchical, meaning 
@@ -23,13 +22,13 @@ that there is a single top-level object, and other objects descend from it in a 
 With the HTML DOM, JavaScript can access and change all the elements of an HTML document. The HTML DOM is 
 a standard for how to get, change, add, or delete HTML elements.
 
-##Why is it only available in browsers?
+# Why is it only available in browsers?
 The DOM is an interface between scripting languages and a web page’s structure. The browser 
 creates a Document Object Model or DOM for each of the webpage it renders. The DOM allows 
 scripting languages to access and modify a web page. With the help of DOM, JavaScript gets 
 the ability to create dynamic HTML.
 
-##What are event listeners?
+# What are event listeners?
 When you refresh your email inbox, double tap on a post, or scroll through a newsfeed — something cool 
 happens in your browser. These actions are known as events! Events on the web are user interactions and 
 browser manipulations that you can program to trigger functionality. Some other examples of events are:
@@ -51,7 +50,7 @@ color, text, and much more!”
 Most events in the browser take place without being noticed — the events are undetected because there is no event handler 
 associated with the event to execute an action. Event handlers are crucial for creating interactive websites with JavaScript.
 
-##What are timing functions?
+# What are timing functions?
 
 There are methods in Javascript that allow execution of code at specified time intervals. For example if you would like the colour 
 og the background to change every 60 second or it you woudl like a pop up window to appear 20 sec after the homepage is opened. 
