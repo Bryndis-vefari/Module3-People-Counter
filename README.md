@@ -8,6 +8,7 @@ I used that base, styled it and added some interactivity with DOM manipulation.
 ## What I did:
 
 - build the app using JavaScript with the help of Scrimba
+
     ![alt text](people-counter.png)
 - styled it with CSS and added styles with DOM
 - hover state on buttons with JS control
