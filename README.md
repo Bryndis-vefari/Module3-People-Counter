@@ -1,15 +1,19 @@
 # DOM Manipulation & Timing
 
-For this project I went through a functions Scrimba course for beginners, which I knew that touched on DOM.
+For this project I went through a Scrimba course for beginners in Javascript, that I knew touched on DOM.
 	[Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)
 The course takes you through step by step how to build a simple people counter that stores the previous entries.
 I used that base, styled it and added some interactivity with DOM manipulation.
 
-- made app using JavaScript
-- styled with CSS and added styles with DOM
+## What I did:
+
+- build the app using JavaScript with the help of Scrimba
+    This is what it looked like
+    ![alt text](people-counter.png)
+- styled it with CSS and added styles with DOM
 - hover state on buttons with JS control
-- csetInterval to display a clock
-- setTimeout to display a pop up message
+- setInterval to display a clock
+- setTimeout to display a pop up message in the browser
 
 I also read about the main consepts to get the main lingo in DOM
 
